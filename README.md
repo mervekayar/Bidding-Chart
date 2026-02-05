@@ -1,4 +1,4 @@
-# 🏷️ Secret Auction (Blind Bidding) – Python Project
+# 🏷️ Bidding Chart (Secret Auction) – Python Project
 
 This is a simple Python console application that simulates a **secret auction** system.
 Each participant enters their bid privately, and the program determines the highest bidder at the end.
